@@ -1,4 +1,4 @@
-FROM python:3.12.0rc2-alpine3.18
+FROM python:3.11.3-alpine3.18
 LABEL mantainer="rafael@lyquidity.com.br"
 
 # Essa variável de ambiente é usada para controlar se o Python deve 
